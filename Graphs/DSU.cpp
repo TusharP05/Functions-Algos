@@ -1,3 +1,5 @@
+//Disjoint Set Union
+//Tushar Parakh
 #include<bits/stdc++.h>
 using namespace std;
 
